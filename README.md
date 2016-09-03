@@ -26,7 +26,7 @@ The initial code is adapted/refactored as follows:
 </ul>
 
 <br><br>
-Further refatcoring based on Angular Good Practices:
+Further refactoring based on Angular Good Practices:
 http://bguiz.github.io/js-standards/angularjs/controllers/
 <br><br>
 

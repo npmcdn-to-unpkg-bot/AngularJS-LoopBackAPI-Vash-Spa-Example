@@ -27,6 +27,7 @@ The initial code is adapted/refactored as follows:
 <li></li>
 <li></li>
 </ul>
+
 <br><br>
 <b>Vash Templates</b><br>
 Vash offers more Razor like syntax and the use of layouts.

@@ -4,7 +4,7 @@ This Sample was initially taken from the LoopBack Tutorial, getting started Tuto
 <br><br>
 The code was written using Eclipse Neon.
 <br><br>
-Loopback is used as a RESTful Api, to login, and allow reviews, and modifictaions to reviews based on simple authentication. The RESTful API is linked to an Angular Client using the
+Loopback is used as a RESTful Api, to login, and allow reviews, and modifications to reviews based on simple authentication. The RESTful API is linked to an Angular Client using the
 Angular SDK.
 <br><br>
 Models are created using the Persisted Model.<br>
@@ -39,14 +39,16 @@ http://bguiz.github.io/js-standards/angularjs/controllers/
 <br><br>
 
 <b>AngularJS 1.5.8</b><br>
+https://angular.io/
 
-<<b>StringLoop Angular JS SDK</b><br>
+<<b>StrongLoop Angular JS SDK</b><br>
 <a href="LoopBackhttps://docs.strongloop.com/display/public/LB/Create+AngularJS+client#CreateAngularJSclient-IntroducingtheAngularJSSDK">
 LoopBackhttps://docs.strongloop.com/display/public/LB/Create+AngularJS+client#CreateAngularJSclient-IntroducingtheAngularJSSDK</a>
 <a href="https://docs.strongloop.com/display/public/LB/AngularJS+JavaScript+SDK">https://docs.strongloop.com/display/public/LB/AngularJS+JavaScript+SDK</a>
 <br><br>
+It makes use of Users, Authentication, Remote Methods, Relations and Hooks.
 
-References:
+<b>References:</b>
 Getting started with LoopBack(http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) for step-by-step instructions to create this application.
 Follow the steps in the tutorial to create this application from scratch.
 ---

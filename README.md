@@ -49,7 +49,6 @@ https://docs.strongloop.com/display/public/LB/Create+AngularJS+client#CreateAngu
 
 <b>References:</b>
 Getting started with LoopBack(http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) for step-by-step instructions to create this application.
-<br>
-Follow the steps in the tutorial to create this application from scratch.
+<br> Follow the steps in the tutorial to create this application from scratch.
 ---
 [More LoopBack examples](https://github.com/strongloop/loopback-example)

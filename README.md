@@ -9,7 +9,7 @@ This Sample was initially taken from the LoopBack Tutorial, getting started Tuto
 <br><br>
 The code was written using Eclipse Neon.
 <br><br>
-Loopback is used as a RESTful Api, to login, and allow reviews, and modifications to reviews based on simple authentication. The RESTful API is linked to an Angular Client using the Angular SDK.
+Loopback is used as a RESTful Api, to login, and allow Coffee Shop reviews, creation and modifications, based on simple authentication. The RESTful API is linked to an Angular Client using the Angular SDK.
 <br><br>
 
 Models are created using the Persisted Model.<br>
@@ -29,9 +29,15 @@ The initial code is adapted/refactored as follows:
 <li>Grunt used to incorporate Docular, used for JS Code Documentation</li>
 <li>Gulp used to Build and Deploy</li>
 </ul>
-
 <br><br>
-Further refactoring based on Angular Good Practices:
+<b>Further Development to include</b>
+<ul>
+<li>Gulp Build and Deploy</li>
+<li>Incorporate PassportJS</li>
+<li>Incorporate Unit Testing</li>
+</ul>
+
+cFurther refactoring based on Angular Good Practices:
 http://bguiz.github.io/js-standards/angularjs/controllers/
 <br><br>
 

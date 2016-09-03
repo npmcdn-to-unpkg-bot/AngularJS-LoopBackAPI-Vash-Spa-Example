@@ -7,7 +7,7 @@ This Sample was initially taken from the LoopBack Tutorial, getting started Tuto
 <br><br>
 The code was written using Eclipse Neon.
 <br><br>
-Loopback is used as a RESTful Api, to login, and allow Coffee Shop reviews, creation and modifications, based on simple authentication. The RESTful API is linked to an Angular Client using the Angular SDK.
+Loopback is used as a RESTful Api, to login, and allow Coffee Shop reviews, creation and modifications, based on simple authentication. The RESTful API is linked to an Angular JS (v1.5.8) Client using the LoopBack Angular SDK.
 <br><br>
 
 Models are created using the Persisted Model.<br>

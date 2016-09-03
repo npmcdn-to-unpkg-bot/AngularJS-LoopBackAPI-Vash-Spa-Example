@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+<meta charset="utf-8">
+<title>@model.title</title>
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+	@html.block('body')
+
+	<script src="js/3rdParty/angular/angular.min.js"></script>
+	<script src="js/3rdParty/angular-resource/angular-resource.min.js"></script>
+	<script	src="js/3rdParty/angular-ui-router/release/angular-ui-router.min.js"></script>
+	
+	<script src="js/modules/app-module.js"></script>
+	<script src="js/services/lb-services.js"></script>
+	<script src="js/modules/app-module.js"></script>
+	<script src="js/controllers/login/authLoginController.js"></script>
+	<script src="js/controllers/login/authLogoutController.js"></script>
+	<script src="js/controllers/login/signupController.js"></script>
+	<script src="js/controllers/review/allReviewsController.js"></script>
+	<script src="js/controllers/review/allReviewsController.js"></script>
+	<script src="js/controllers/review/addReviewController.js"></script>
+	<script src="js/controllers/review/deleteReviewController.js"></script>
+	<script src="js/controllers/review/editReviewController.js"></script>
+	<script src="js/controllers/review/myReviewsController.js"></script>
+	<script src="js/services/auth.js"></script>
+</body>
+<br />
+<footer style="text-align: center"> @html.block('footer') </footer>
+</html>

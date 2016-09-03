@@ -1,0 +1,24 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysqlDs": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "getting_started",
+    "username": "demo",
+    "password": "L00pBack69",
+    "name": "mysqlDs",
+    "connector": "mysql"
+  },
+  "mongoGsDs": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "getting_started_intermediate",
+    "user": "",
+    "password": "",
+    "name": "mongoGsDs",
+    "connector": "mongodb"
+  }
+}

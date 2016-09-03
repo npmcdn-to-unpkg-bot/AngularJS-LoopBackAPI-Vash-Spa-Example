@@ -1,0 +1,25 @@
+{
+  "name": "loopback-getting-started",
+  "description": "This the example application that accompanies the [Getting started with LoopBack](http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) tutorial. Follow the steps in the tutorial to create this application from scratch.",
+  "main": "server/server.js",
+  "authors": [
+    ".NET Stack & JS Frameworks <dtro-devuk@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "underscore": "^1.8.3",
+    "angular-resource": "^1.5.8",
+    "angular-ui-router": "ui-router#^0.3.1"
+  }
+}

@@ -1,5 +1,10 @@
 # AngularJS and LoopBack with vash Templates Example
 <br><br>
+
+<b><i>Rapid JS Client using the Mean Stack, well RESTful LoopBack APIs, coupled with MongoDB and MySQL<i></b>.
+
+<br><br>
+
 This Sample was initially taken from the LoopBack Tutorial, getting started Tutorial, based around the Coffee Shop Review. So Credits due to StrongLoop.
 <br><br>
 The code was written using Eclipse Neon.

@@ -1,8 +1,6 @@
 # AngularJS and LoopBack with vash Templates Example
 <br><br>
-
 <b><i>Rapid JS Client using the Mean Stack, well RESTful LoopBack APIs, coupled with MongoDB and MySQL<i></b>.
-
 <br><br>
 
 This Sample was initially taken from the LoopBack Tutorial, getting started Tutorial, based around the Coffee Shop Review. So Credits due to StrongLoop.
@@ -35,9 +33,12 @@ The initial code is adapted/refactored as follows:
 <li>Gulp Build and Deploy</li>
 <li>Incorporate PassportJS</li>
 <li>Incorporate Unit Testing</li>
+<li>Upgrade to Angular 2 with components</li>
+<li>Upgrade to Angular 2 LoopBack SDK with components</li>
+<li>Seperate projects to client Website and Server APIs</li>
 </ul>
 
-cFurther refactoring based on Angular Good Practices:
+Further refactoring was based on Angular Good Practices and SOLID:
 http://bguiz.github.io/js-standards/angularjs/controllers/
 <br><br>
 

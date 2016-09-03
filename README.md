@@ -39,9 +39,9 @@ Vash offers more Razor like syntax and the use of layouts.<br>
 see:https://github.com/kirbysayshi/vash
 <br><br>
 
-<<b>StrongLoop Angular JS SDK</b><br>
+<b>StrongLoop Angular JS SDK</b><br>
 <a href="LoopBackhttps://docs.strongloop.com/display/public/LB/Create+AngularJS+client#CreateAngularJSclient-IntroducingtheAngularJSSDK"><br>
-LoopBack https://docs.strongloop.com/display/public/LB/Create+AngularJS+client#CreateAngularJSclient-IntroducingtheAngularJSSDK</a>
+https://docs.strongloop.com/display/public/LB/Create+AngularJS+client#CreateAngularJSclient-IntroducingtheAngularJSSDK</a>
 <br>
 <a href="https://docs.strongloop.com/display/public/LB/AngularJS+JavaScript+SDK">https://docs.strongloop.com/display/public/LB/AngularJS+JavaScript+SDK</a>
 <br><br>

@@ -28,6 +28,11 @@ The initial code is adapted/refactored as follows:
 <li>Gulp used to Build and Deploy</li>
 </ul>
 <br><br>
+<b>Recent updates</b>
+<li>LoopBack Middleware for Logging, Tracking and Errors</li>
+<li>Colors npm used for Console above middleware</li>
+<li>Custom Error Handling, vash templates for status code, 404 & 500</li>
+<br><br>
 <b>Further Development to include</b>
 <ul>
 <li>Gulp Build and Deploy</li>

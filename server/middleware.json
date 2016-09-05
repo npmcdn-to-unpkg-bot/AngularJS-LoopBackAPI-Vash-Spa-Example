@@ -10,7 +10,8 @@
         "credentials": true,
         "maxAge": 86400
       }
-    }
+    },
+	"./middleware/tracker": {}
   },
   "session": {},
   "auth": {
@@ -20,7 +21,7 @@
   },
   "parse": {},
   "routes": {
-    "loopback#rest": {
+    "loopback#rest": { 
       "paths": [
         "${restApiRoot}"
       ]
@@ -32,7 +33,9 @@
     }
   },
   "final": {
-    "loopback#urlNotFound": {}
+    "loopback#urlNotFound": {},
+	"./middleware/errorLogger": {}
+
   },
   "final:after": {
     "loopback#errorHandler": {}

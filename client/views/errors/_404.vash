@@ -1,0 +1,19 @@
+@html.extend('layout',function(model) {
+
+  @html.block('body',function(model) {
+
+  <header>
+    <h1 style='color:red'>@model.title</h1>
+
+    <nav>
+      <ul>
+          <li><a href="/" ui-sref-active="active">Home</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <br>
+    <p>@model.error</p>
+  
+  });
+})

@@ -34,5 +34,5 @@
 			Credits: Adapted from StrongLoop Coffee Shop tutorial: see: <a href="@model.credits">@model.credits</a>
 			</b>
 	});
-});
+})
 
